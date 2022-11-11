@@ -17,5 +17,5 @@ Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Mollie Gaines,"Appears in map credits as ""View data by..."" (or leave blank)"
 Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
-Author Github Repo Link,"https://github.com/mdgaines","Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Author Github Repo Link,https://github.com/mdgaines/leaflet-storymap-nr491,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
