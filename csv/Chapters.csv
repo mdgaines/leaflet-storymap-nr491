@@ -3,7 +3,7 @@
 1,Peace College,media/peace.jpg,Image Source: Niche,https://www.niche.com/colleges/william-peace-university/,"William Peace University was founded in 1857. It's motto is     <em>Esse quam videri</em> - ""To be, rather than to seem"".",16.0,Plain,blue,15 E PEACE ST,35.7882396,-78.6373757,,,,
 2,Shaw University,,,,,16.0,Plain,blue,118 E SOUTH ST,35.771817,-78.6379858,,,,
 3,Saint Augustines College,,,,,16.0,Plain,blue,1315 OAKWOOD AVENUE,35.7844945,-78.6206819,,,,
-4,North Carolina State University At Raleigh,https://www.youtube.com/embed/aZQFQnbs_Ho,,,,16.0,Plain,blue,2200 HILLSBOROUGH STREET,35.7864724,-78.6644827,,,,
+4,North Carolina State University At Raleigh,https://www.youtube.com/embed/aZQFQnbs_Ho,,,,16.0,Plain,blue,2200 HILLSBOROUGH STREET,35.7864724,-78.6644827,,,geojson/NCSU_campuses.geojson,fillColor:red;color:black
 5,Meredith College,,,,,16.0,Plain,blue,3800 HILLSBOROUGH ST,35.7945245,-78.6880408,,,,
 6,Wake Technical Community College,,,,,16.0,Plain,blue,9101 FAYETTEVILLE ROAD,35.6506362,-78.706852,,,,
 7,University Of Phoenix-Raleigh Campus,,,,,16.0,Plain,blue,5511 CAPITAL CENTER DRIVE STE. 380,35.7672436,-78.7290806,,,,
