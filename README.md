@@ -1,10 +1,11 @@
-# Leaflet Storymaps with Google Sheets
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
+# Leaflet Storymaps with CSVs
+Customize your Leaflet story map with linked CSV templates and scrolling narrative.
 Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
 
 <p align="center">
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="70%" />
 </p>
+
 
 ## Live links (replace with your own)
 - Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
